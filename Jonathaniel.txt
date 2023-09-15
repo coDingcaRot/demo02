@@ -1,2 +1,6 @@
 "hello from Jonathaniel" 
+<<<<<<< HEAD
 goodbye from Jonathaniel 
+=======
+"In a parallel universe we are changing history!" 
+>>>>>>> newfeature
